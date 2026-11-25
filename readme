@@ -1,0 +1,46 @@
+# Responsive Personal Portfolio Website
+
+## Lab Title
+WebDev Lab Assignment 3 - CSS Advanced
+
+## Description
+A responsive personal portfolio website created using HTML5 and CSS3.
+
+## Features
+- Header and Navigation
+- Hero Section
+- About Section
+- Skills Section
+- Projects Section
+- Contact Form
+- Footer
+
+## Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media Queries
+- CSS Transitions
+- CSS Animations
+
+## Responsive Behavior Testing
+
+Tested breakpoints:
+- Desktop: Above 800px
+- Tablet: 600px to 800px
+- Mobile: 600px and below
+
+## Steps to View Responsive Behavior
+1. Open index.html in a browser.
+2. Right-click and select Inspect.
+3. Click Toggle Device Toolbar.
+4. Test different screen sizes.
+
+## Project Files
+- index.html
+- style.css
+- README.md
+
+## Conclusion
+This project demonstrates responsive web design using advanced CSS concepts.
